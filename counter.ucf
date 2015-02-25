@@ -1,0 +1,14 @@
+//Mapping the FPGA Board Switches with the VARIABLES DECLARED IN PROGRAM
+
+NET "up" LOC= "U8"  ;					
+NET "down" LOC= "V8" ;
+NET "rst" LOC= "AJ6" ;
+NET "clk" LOC= "AH15" ;
+NET "led[0]"  LOC= "H18"  ;
+NET "led[1]"  LOC= "L18"  ;
+NET "led[2]"  LOC= "G15"  ;
+NET "led[3]"  LOC= "AD26" ;
+NET "clk1hz"  LOC= "AD24" ;
+
+
+ 

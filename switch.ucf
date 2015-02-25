@@ -1,0 +1,12 @@
+//Mapping the FPGA Board Switches with the VARIABLES DECLARED IN PROGRAM
+
+
+NET "switches[0]" LOC= "U25"  ;
+NET "switches[1]" LOC= "AG27" ;
+NET "switches[2]" LOC= "AF25" ;
+NET "switches[3]" LOC= "AF26" ;
+
+NET "leds[0]"  LOC= "H18"  ;
+NET "leds[1]"  LOC= "L18"  ;
+NET "leds[2]"  LOC= "G15"  ;
+NET "leds[3]"  LOC= "AD26" ;
